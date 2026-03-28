@@ -67,7 +67,7 @@ This project highlights global inequalities in health outcomes and demonstrates 
 
 ## Author
 
-Hafsa Mohamed
-Master of Data Science Student
-Aspiring Data Analyst
+Hafsa Mohamed |
+Master of Data Science Student |
+Aspiring Data Analyst 
 
