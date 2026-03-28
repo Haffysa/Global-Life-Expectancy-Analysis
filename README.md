@@ -61,15 +61,6 @@ An interactive Power BI dashboard was created to:
 * Analyse trends over time
 * Filter insights by development status
 
-## Project Structure
-
-life-expectancy-analysis/
-│
-├── data/
-├── notebooks/
-├── visuals/
-├── README.md
-
 ## Key Takeaways
 
 This project highlights global inequalities in health outcomes and demonstrates how data analysis can support evidence-based decision-making. It also reflects the importance of education, economic development, and healthcare systems in improving life expectancy.
